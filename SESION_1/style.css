@@ -1,0 +1,8 @@
+p /*para agregar una fuente externa*/
+{
+    font-family: 'Shizuru', cursive;
+    font-size: 30px;
+    font-weight: 700; /*este rango lo da en la pagina el peso que se puede poner*/
+}
+
+/*@import url(); */  /* para cambiar la funete igual, se colola el url que viene en google fonts alado del link*/
